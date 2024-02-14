@@ -6,7 +6,7 @@
 
 ### Challenge One:
 Q1: Validate the data using SQL queries, and show your output in excel sheet.
-In this ![Link](https://www.aljazeera.net/) you will find the validation SQL queries of customer table and outputs.
+In this [Link](https://www.aljazeera.net/) you will find the validation SQL queries of customer table and outputs.
 
 Q2: Can this table be signed off and shared with stackholders or not? explain your answer 
 Ans: 
