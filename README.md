@@ -30,5 +30,9 @@ The task involved validating customer-related data in an SQL table and determini
    - Suggested action: each Email address must be distinct
 
 **QA Sign-off:**  
-Sharing the table with stakeholders is not possible due to identical phone numbers for all customers and duplicate email addresses. Additionally, there are null values in the email and phone number fields and invalid email addresses.
+Sharing the table with stakeholders is not possible due to these reasons: 
+ - identical phone numbers for all customers.
+ - Null values in the email and phone number fields.
+ - invalid email addresses.
+ - Duplicate email addresses.
 
