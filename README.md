@@ -25,6 +25,6 @@ The task involved validating customer-related data in an SQL table and determini
   - All customers share identical phone numbers
   - Suggested action: each phone number must be distinct
 
-**QA Sign-off:**
+**QA Sign-off:**  
 Sharing the table with stakeholders is not possible due to identical phone numbers for all customers. Additionally, there are null values in the email and phone number fields.
 
