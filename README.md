@@ -24,6 +24,10 @@ The task involved validating customer-related data in an SQL table and determini
 4. Identical Phone Numbers:
   - All customers share identical phone numbers
   - Suggested action: each phone number must be distinct
+    
+5. Duplicated Email
+   - Identified two cutomers have the same email address
+   - Suggested action: each Email address must be distinct
 
 **QA Sign-off:**  
 Sharing the table with stakeholders is not possible due to identical phone numbers for all customers. Additionally, there are null values in the email and phone number fields and invalid email addresses.
