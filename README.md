@@ -10,7 +10,7 @@ The task involved validating customer-related data in an SQL table and determini
 
 **Validation Results:** 
 1. NULL Values:
-  - Identified NULL values in columns: PhoneNumber, Email, State, Birthdate and Zip Code.
+  <tab>- Identified NULL values in columns: PhoneNumber, Email, State, Birthdate and Zip Code.
   - Suggested action: Address the NULL values, ensuring completeness and accuracy.
 
 2. Invalid Email Addresses:
