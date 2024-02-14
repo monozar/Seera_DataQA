@@ -10,16 +10,16 @@ The task involved validating customer-related data in an SQL table and determini
 
 **Validation Results:** 
 1. NULL Values:
-  - Identified NULL values in columns: PhoneNumber, Email, State, Birthdate and Zip Code.
-  - Suggested action: Address the NULL values, ensuring completeness and accuracy.
+   - Identified NULL values in columns: PhoneNumber, Email, State, Birthdate and Zip Code.
+   - Suggested action: Address the NULL values, ensuring completeness and accuracy.
 
 2. Invalid Email Addresses:
-  - Detected invalid email addresses: ‘sarah.lee@invalidemail’ and ‘jane.doe@invalidemail’
-  - Suggested action: Correct or remove email addresses
+   - Detected invalid email addresses: ‘sarah.lee@invalidemail’ and ‘jane.doe@invalidemail’
+   - Suggested action: Correct or remove email addresses
 
 3. Inconsistent Birthdate Formats: 
-  - Identitifed an invalid birthdate format: ’02-02-1990’
-  - Suggested action: standardize birthdate formats to ‘YYYY-MM-DD’
+   - Identitifed an invalid birthdate format: ’02-02-1990’
+   - Suggested action: standardize birthdate formats to ‘YYYY-MM-DD’
 
 4. Identical Phone Numbers:
    - All customers share identical phone numbers
