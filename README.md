@@ -28,7 +28,10 @@ The task involved validating customer-related data in an SQL table and determini
 5. Duplicate Emails
    - Identified cutomers have the same email address: "john.smith@email.com" and "bob.johnson@example.com"
    - Suggested action: each Email address must be distinct
-
+     
+6. Possible Duplicate records
+   - Identified instances of records that are nearly identical, differing only in one null field; for instance, record 1 closely matches record 7, and record 4 with 10.
+   
 **QA Sign-off:**  
 Sharing the table with stakeholders is not possible due to these reasons: 
  - identical phone numbers for all customers.
