@@ -6,7 +6,7 @@
 
 ### Challenge One:
 **Task Summary:**     
-The task involved validating customer-related data in an SQL table and determining whether the table is suitable for sign-off and sharing with stakeholders. The validation was performed using SQL queries, and the output was reviewed for potential issues. Within this link, you'll discover the SQL validation queries along with their corresponding results.
+The task involved validating customer-related data in an SQL table and determining whether the table is suitable for sign-off and sharing with stakeholders. The validation was performed using SQL queries, and the output was reviewed for potential issues. Within this [link](https://translate.google.com/?sl=en&tl=ar&text=Potential%20duplicate%20entries.%0A%0A%0A&op=translate), you'll discover the SQL validation queries along with their corresponding results.
 
 **Validation Results:** 
 1. NULL Values:
