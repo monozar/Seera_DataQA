@@ -5,7 +5,7 @@
 #### Submitted On: 17 Feb, 2024
 
 ### Challenge One:
-**Task Summary:** 
+**Task Summary:**     
 The task involved validating customer-related data in an SQL table and determining whether the table is suitable for sign-off and sharing with stakeholders. The validation was performed using SQL queries, and the output was reviewed for potential issues. Within this link, you'll discover the SQL validation queries along with their corresponding results.
 
 **Validation Results:** 
