@@ -22,8 +22,8 @@ The task involved validating customer-related data in an SQL table and determini
   - Suggested action: standardize birthdate formats to ‘YYYY-MM-DD’
 
 4. Identical Phone Numbers:
-  - All customers share identical phone numbers
-  - Suggested action: each phone number must be distinct
+   - All customers share identical phone numbers
+   - Suggested action: each phone number must be distinct
     
 5. Duplicated Email
    - Identified two cutomers have the same email address
