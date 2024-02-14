@@ -25,7 +25,7 @@ The task involved validating customer-related data in an SQL table and determini
    - All customers share identical phone numbers
    - Suggested action: each phone number must be distinct
     
-5. Duplicated Email
+5. Duplicate Emails
    - Identified two cutomers have the same email address
    - Suggested action: each Email address must be distinct
 
