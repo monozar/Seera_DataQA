@@ -14,7 +14,7 @@ The task involved validating customer-related data in an SQL table and determini
    - Suggested action: Address the NULL values, ensuring completeness and accuracy.
 
 2. Invalid Email Addresses:
-   - Detected invalid email addresses: ‘sarah.lee@invalidemail’ and ‘jane.doe@invalidemail’
+   - Detected invalid email addresses: 'sarah.lee@invalidemail' and 'jane.doe@invalidemail'
    - Suggested action: Correct or remove email addresses
 
 3. Inconsistent Birthdate Formats: 
@@ -26,7 +26,7 @@ The task involved validating customer-related data in an SQL table and determini
    - Suggested action: each phone number must be distinct
     
 5. Duplicate Emails
-   - Identified two cutomers have the same email address
+   - Identified cutomers have the same email address: 'john.smith@email.com' and 'bob.johnson@example.com'
    - Suggested action: each Email address must be distinct
 
 **QA Sign-off:**  
