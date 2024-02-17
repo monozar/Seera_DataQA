@@ -44,4 +44,17 @@ Sharing the table with stakeholders is not possible due to these reasons:
 validating the transformed table against specific business requirements, and ensuring the presence of required attributes with corresponding logic for generating a Finance report for Service transactions.The validation was performed using SQL queries(MySQL as DBMS), and the output was reviewed for potential issues. You'll discover the SQL validation queries along with their corresponding results for this challenge within this repo under 'Chanllenge Two' directory
 
 **Validation Results:** 
+1. Identification of Missing Columns:
+   - 'service_fee_amount' missing in L1 which wil violate the logic provided for transformation
 
+2. Invalid calcualtions
+   - 'iov_usd' & 'gbv_usd' calculated in wronge way for most records(see query 1 and 2 results in atthached excel sheet)
+3. Detected violated rules 
+   - the following rule (service_fee_code	product_name	product_type = 'rule') in the transfo. logic is violated in L2 based on Query3 result
+4. Null Values
+   - Identified NULL values in columns : 'servic_fee_code'
+5. Missing records
+   - missing all records(7 records) in L2 where 'product_type=rule' in L1
+
+** QA Sign-off: **  
+  Sharing the transformed table with stakeholders is not possible. becaus eof invalid calculatiosn and null values.
