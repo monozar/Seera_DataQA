@@ -56,5 +56,5 @@ validating the transformed table against specific business requirements, and ens
 5. Missing records
    - missing all records(7 records) in L2 where 'product_type=rule' in L1
 
-** QA Sign-off: **  
+**QA Sign-off:**    
   Sharing the transformed table with stakeholders is not possible. becaus eof invalid calculatiosn and null values.
