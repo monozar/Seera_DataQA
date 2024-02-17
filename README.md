@@ -6,7 +6,7 @@
 
 ### Challenge One:
 **Task Summary:**     
-The task involved validating customer-related data in an SQL table and determining whether the table is suitable for sign-off and sharing with stakeholders. The validation was performed using SQL queries, and the output was reviewed for potential issues. Within this repo("Validation Queries results" and "SQL Queries"), you'll discover the SQL validation queries along with their corresponding results.
+The task involved validating customer-related data in an SQL table and determining whether the table is suitable for sign-off and sharing with stakeholders.The validation was performed using SQL queries(MySQL as DBMS), and the output was reviewed for potential issues. You'll discover the SQL validation queries along with their corresponding results for this challenge within this repo under 'Chanllenge one' directory
 
 **Validation Results:** 
 1. NULL Values:
@@ -38,4 +38,10 @@ Sharing the table with stakeholders is not possible due to these reasons:
  - Null values in the email and phone number fields.
  - invalid email addresses.
  - Duplicate email addresses.
+
+### Challenge Two:
+**Task Summary**: 
+validating the transformed table against specific business requirements, and ensuring the presence of required attributes with corresponding logic for generating a Finance report for Service transactions.The validation was performed using SQL queries(MySQL as DBMS), and the output was reviewed for potential issues. You'll discover the SQL validation queries along with their corresponding results for this challenge within this repo under 'Chanllenge Two' directory
+
+**Validation Results:** 
 
