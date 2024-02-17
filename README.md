@@ -40,7 +40,7 @@ Sharing the table with stakeholders is not possible due to these reasons:
  - Duplicate email addresses.
 
 ### Challenge Two:
-**Task Summary**: 
+**Task Summary**:  
 validating the transformed table against specific business requirements, and ensuring the presence of required attributes with corresponding logic for generating a Finance report for Service transactions.The validation was performed using SQL queries(MySQL as DBMS), and the output was reviewed for potential issues. You'll discover the SQL validation queries along with their corresponding results for this challenge within this repo under 'Chanllenge Two' directory
 
 **Validation Results:** 
